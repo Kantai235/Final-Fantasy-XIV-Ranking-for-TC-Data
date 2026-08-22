@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "updated_at_iso": "2026-08-22T18:37:51.688Z",
+  "event": "schedule",
+  "branch": "main",
+  "head_sha": "02e9abe8fb3ca2584bc52f17501737fde47fc31e",
+  "run_id": "32586354440",
+  "run_attempt": 1,
+  "run_url": "https://github.com/Kantai235/Final-Fantasy-XIV-Ranking-for-TC/actions/runs/32586354440",
+  "rankings_updated_at_iso": "2026-08-22T18:27:04.339000+00:00",
+  "total_character_count": 14959,
+  "total_entry_count": 617861
+}
