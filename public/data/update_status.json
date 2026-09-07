@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "format": "public_update_status_v1",
+  "updated_at_iso": "2026-09-07T02:50:35.691Z",
+  "rankings_updated_at_iso": "2026-09-07T02:37:51.268000+00:00",
+  "event": "schedule",
+  "branch": "main",
+  "run_id": "34071595518",
+  "run_attempt": 1,
+  "run_url": "https://github.com/Kantai235/Final-Fantasy-XIV-Ranking-for-TC/actions/runs/34071595518",
+  "total_character_count": 15319,
+  "total_entry_count": 656042,
+  "schedule": {
+    "workflow_cron_utc": "17,47 * * * *",
+    "interval_minutes": 30,
+    "incremental_lookback_hours": 24,
+    "no_clear_retry_hours": 24,
+    "delayed_scan_recent_gap_hours": 24,
+    "delayed_scan_lookback_hours": 72,
+    "history_scan_window_hours": 168,
+    "history_scan_windows_per_run": 1,
+    "history_max_deep_reports_per_run": 600,
+    "history_max_deep_reports_per_group_per_run": 150
+  }
+}
