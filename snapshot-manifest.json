@@ -1,0 +1,549 @@
+{
+  "schema_version": 1,
+  "format": "ffxiv_tc_data_snapshot_v1",
+  "repository": "Kantai235/Final-Fantasy-XIV-Ranking-for-TC-Data",
+  "branch": "main",
+  "content_signature": "e5fea7328990f8c5913030c3d74a21897e61bbdf94e4fe768ee89d6da8bc1cb2",
+  "file_count": 106,
+  "total_size_bytes": 2411929419,
+  "source": {
+    "repository": "Kantai235/Final-Fantasy-XIV-Ranking-for-TC",
+    "branch": "main",
+    "commit": "b64e703350278ab46756469af8adeae13c4846b3",
+    "event": "schedule",
+    "run_id": "35445667935",
+    "run_attempt": 1
+  },
+  "files": [
+    {
+      "path": "data/fun/honey_b_fans.json",
+      "size_bytes": 87608181,
+      "sha256": "fb49ace3f6e8cde4c4aa43fa7b039abf0147b249dec1b8b3b0ace5b2983ad691"
+    },
+    {
+      "path": "data/pages_payload_history.jsonl",
+      "size_bytes": 242903,
+      "sha256": "47267f0edf557a243464d0bcd91eebe7147b89fd1d69371a12d8308a2cd5cf85"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.json",
+      "size_bytes": 13200543,
+      "sha256": "f8d6e9f476ddbc4a092580b8e4fa395726522b63c1f288de45c493693cd73db8"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/000.json",
+      "size_bytes": 46834473,
+      "sha256": "d3dece9e3d7c1aa7497e3281f1dd819671759bba0abdaeeadf9ad9b04f9f45fb"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/001.json",
+      "size_bytes": 47103674,
+      "sha256": "61a494219ac0e3fbea7c46b13ad78e51f8c14fac6e947ecaadb9a0920ae213d6"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/002.json",
+      "size_bytes": 47059746,
+      "sha256": "ba5591641ac650b733e02f014528c920bb4109152ddb8781094cfccc0c5f447c"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/003.json",
+      "size_bytes": 47119682,
+      "sha256": "30b00bcc2d8ed51b508f06004d30fc8bdd20c2543a86132f75a7e6411705bfba"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/004.json",
+      "size_bytes": 47121428,
+      "sha256": "08795285a81a0610b948678b743ea9ccd2c72c2da3941d2c2d052f7aa7204b5f"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/005.json",
+      "size_bytes": 47149147,
+      "sha256": "643e17a2be410871b468d2fa0c6fdeefdbad9aaa9249b0ee6fcddc32ab9f0dd3"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/006.json",
+      "size_bytes": 46736132,
+      "sha256": "b8c8e44305976c02b81bd06e4d0a8432927cc5ce767b7040d065b91035c39be0"
+    },
+    {
+      "path": "data/rankings/chaotic_cloud_of_darkness.reports/007.json",
+      "size_bytes": 14836089,
+      "sha256": "cc8ece3dd8ae2def55e42c9d848c3fa08997bc795d4d180446bc3bd25ba51942"
+    },
+    {
+      "path": "data/rankings/extreme_queen_eternal.json",
+      "size_bytes": 18160564,
+      "sha256": "f821101fdd5b9c5ad1582b3c9e3b8baf2d576a992b7df3b3104fb60fdd781d86"
+    },
+    {
+      "path": "data/rankings/extreme_queen_eternal.reports/000.json",
+      "size_bytes": 47150771,
+      "sha256": "87b76c7574f99241441fb5493ee5ee3d5a4b6a1c13a38d1b9653fa80333ef70b"
+    },
+    {
+      "path": "data/rankings/extreme_queen_eternal.reports/001.json",
+      "size_bytes": 47162110,
+      "sha256": "35eba861c218afb93d25a9c592e685913293664fe87c07eecf59ff7f04e5b7b7"
+    },
+    {
+      "path": "data/rankings/extreme_queen_eternal.reports/002.json",
+      "size_bytes": 47169984,
+      "sha256": "f8ca2c767289c68b8f0d0b16e50928014853dcdf252812143bda3558ac6c0f61"
+    },
+    {
+      "path": "data/rankings/extreme_queen_eternal.reports/003.json",
+      "size_bytes": 9023117,
+      "sha256": "97ef1572053fe1e307f097cb725cfe8da9e2fa962707d4ecad056693e1c503f2"
+    },
+    {
+      "path": "data/rankings/extreme_valigarmanda.json",
+      "size_bytes": 15330206,
+      "sha256": "5b247b8619bacddad785630d1419ce1cc132a852697b15fe19c72a31bc1e824f"
+    },
+    {
+      "path": "data/rankings/extreme_valigarmanda.reports/000.json",
+      "size_bytes": 47159677,
+      "sha256": "33ca70d6dba4fd6064bc783e0c728877adc011b69a223fb50a276eef469cd5c5"
+    },
+    {
+      "path": "data/rankings/extreme_valigarmanda.reports/001.json",
+      "size_bytes": 47148670,
+      "sha256": "2d63ffbf76d96d25707758e34c2bc6059fe2c96748e5c19fa30da8ccc3cd9f79"
+    },
+    {
+      "path": "data/rankings/extreme_valigarmanda.reports/002.json",
+      "size_bytes": 9305745,
+      "sha256": "0775c9fbad45d53c3ab460d45b3177350bc7173d060671e7eda46c17632fca61"
+    },
+    {
+      "path": "data/rankings/extreme_zelenia.json",
+      "size_bytes": 17326998,
+      "sha256": "5301d2b5f168f200be91c7f1398d2c3fbf71d8ef64bd6fb54bae8c5b73282cc4"
+    },
+    {
+      "path": "data/rankings/extreme_zelenia.reports/000.json",
+      "size_bytes": 47160615,
+      "sha256": "27994a75a4e52df7f3b8055c7a215effe119f657c60cf1d55cfaee968c2635ca"
+    },
+    {
+      "path": "data/rankings/extreme_zelenia.reports/001.json",
+      "size_bytes": 47173111,
+      "sha256": "a1d31f449bc8819fc27ff0ee0615f44dc5ffbdc7da4b5c29c6f5f99c3c70da0d"
+    },
+    {
+      "path": "data/rankings/extreme_zelenia.reports/002.json",
+      "size_bytes": 47167627,
+      "sha256": "ea0c37b814c534423266515555c1bed531632bd834e50c65d3c5b36914c3fa35"
+    },
+    {
+      "path": "data/rankings/extreme_zelenia.reports/003.json",
+      "size_bytes": 47102511,
+      "sha256": "2bfaa13f6e2c241068cf56d5be027cff8477035b6cbecdca5305297773f93d1c"
+    },
+    {
+      "path": "data/rankings/extreme_zelenia.reports/004.json",
+      "size_bytes": 47091627,
+      "sha256": "ae09fb22354a7df87cd8278c013ece2411471003af9e7b3b49f2554f56d4c7f6"
+    },
+    {
+      "path": "data/rankings/extreme_zelenia.reports/005.json",
+      "size_bytes": 3773437,
+      "sha256": "fe1cadf9ffc1914e4e395f2feae582e4d26503b21e0e8a40d50d4621db7067d8"
+    },
+    {
+      "path": "data/rankings/extreme_zoraal_ja.json",
+      "size_bytes": 15663635,
+      "sha256": "8f305ec3917ca0230b33944c184c894a7fc5c7e5f591270e126845212fd2e382"
+    },
+    {
+      "path": "data/rankings/extreme_zoraal_ja.reports/000.json",
+      "size_bytes": 47169186,
+      "sha256": "748805a6025fff0e644db3b5817989fc2337416c30998db9f6a0429bd4d18b26"
+    },
+    {
+      "path": "data/rankings/extreme_zoraal_ja.reports/001.json",
+      "size_bytes": 47183612,
+      "sha256": "e65396c9bd3567789eb299ebbe570cd27450523cf57bee654a474b58bb713a73"
+    },
+    {
+      "path": "data/rankings/extreme_zoraal_ja.reports/002.json",
+      "size_bytes": 21390603,
+      "sha256": "04bd9cdd8210913ae4bf4400495ed05446a5ad228826caea21ea8317b940cd99"
+    },
+    {
+      "path": "data/rankings/README.md",
+      "size_bytes": 5250,
+      "sha256": "183e8068db271ec4e5e72edb4a0bb87e3e32da491cffcdfb299efd4b9e07bc9c"
+    },
+    {
+      "path": "data/rankings/savage_m1s.json",
+      "size_bytes": 17751364,
+      "sha256": "43e6de2d5b2c25d007e631b14a5cae113a8836e9c79dc70100b84c0fce8fb49c"
+    },
+    {
+      "path": "data/rankings/savage_m1s.reports/000.json",
+      "size_bytes": 47183488,
+      "sha256": "f6b6cd7e3c0efbacec061217fe7143ba1ad5cbef9645d2411cd1d19c119bf3f4"
+    },
+    {
+      "path": "data/rankings/savage_m1s.reports/001.json",
+      "size_bytes": 36575513,
+      "sha256": "80a17e8e00b1b7316bda0ae52c312615ba58f135eb48e42bc15229eabc01a92f"
+    },
+    {
+      "path": "data/rankings/savage_m2s.json",
+      "size_bytes": 15460120,
+      "sha256": "0eea1ec7a993d7fed801b06bc839a698be8a57e0c6aa445adfbda358e039f548"
+    },
+    {
+      "path": "data/rankings/savage_m2s.reports/000.json",
+      "size_bytes": 47183759,
+      "sha256": "8bc0ce3a25ef168ee5391b0e45e7c191a8280a0dc268be61d6c563289e6d41c6"
+    },
+    {
+      "path": "data/rankings/savage_m2s.reports/001.json",
+      "size_bytes": 31942502,
+      "sha256": "f727b4e373a6f7b9c16d0ce8b4699ca6fc1240b2519abd77b0514f803cc2a7fb"
+    },
+    {
+      "path": "data/rankings/savage_m3s.json",
+      "size_bytes": 13338013,
+      "sha256": "f1c9155a5506e2ca8ad4a8af8aebed72b9a04c1ee2e4bef7ddc631af94d062f5"
+    },
+    {
+      "path": "data/rankings/savage_m3s.reports/000.json",
+      "size_bytes": 47184576,
+      "sha256": "c764eb7067fc124613235cbc588caf3f54ea9b6ec567c29d9873955d87d0b4c0"
+    },
+    {
+      "path": "data/rankings/savage_m3s.reports/001.json",
+      "size_bytes": 25764720,
+      "sha256": "751490e0b8c0aa4aef4762bf5339cdcba0288839f889939c75c5e7a6a808458b"
+    },
+    {
+      "path": "data/rankings/savage_m4s.json",
+      "size_bytes": 13006637,
+      "sha256": "441fe96626db431f09f054fcf4af54f7c1e61f1e7380b41653053d253435e7fa"
+    },
+    {
+      "path": "data/rankings/savage_m4s.reports/000.json",
+      "size_bytes": 47182415,
+      "sha256": "2f482aedfcaf83a6ced03301c5026b7d04e4b4ce34c32980a7d80b0251b94b93"
+    },
+    {
+      "path": "data/rankings/savage_m4s.reports/001.json",
+      "size_bytes": 35528280,
+      "sha256": "e2da8845d639ec7bab7af579a6140403ff70718a4b06b75c4f4de369230eed9c"
+    },
+    {
+      "path": "data/rankings/savage_m5s.json",
+      "size_bytes": 11530551,
+      "sha256": "d74c60a389a479ad2b3077ea781511c7827f5896d45c2401bf2a510471984f27"
+    },
+    {
+      "path": "data/rankings/savage_m5s.reports/000.json",
+      "size_bytes": 47179393,
+      "sha256": "978f8747a4f698f9bce29a91e9f34ac544b27384023fb5ea933f33c7acf452be"
+    },
+    {
+      "path": "data/rankings/savage_m5s.reports/001.json",
+      "size_bytes": 26598119,
+      "sha256": "d1b3be29ed27132568870dad8ba01796420f8b15d9a95d40e7ece26d4db2500d"
+    },
+    {
+      "path": "data/rankings/savage_m6s.json",
+      "size_bytes": 9371482,
+      "sha256": "497585200e4ee848343cf1ac2e49ff6a8a9cfdca372b9b834928f1df2505d34e"
+    },
+    {
+      "path": "data/rankings/savage_m6s.reports/000.json",
+      "size_bytes": 47175487,
+      "sha256": "85f0cf769f34ebb4e87de3c4fdc76330759bb889bcff82012e5be805d87a617b"
+    },
+    {
+      "path": "data/rankings/savage_m6s.reports/001.json",
+      "size_bytes": 27258112,
+      "sha256": "4e24025c61b8ccbf24da9b6529b28a9a083ab2c8af856fdc73cd331c1985c402"
+    },
+    {
+      "path": "data/rankings/savage_m7s.json",
+      "size_bytes": 7719554,
+      "sha256": "400fef0bfa97ecc989785aeccd624582780dd80f16a166231bbcede7d9902e4d"
+    },
+    {
+      "path": "data/rankings/savage_m7s.reports/000.json",
+      "size_bytes": 47173910,
+      "sha256": "088f3c6f27b37f9ca8646380f4257396c34a6d43b7eca40f1bc0933b3169d610"
+    },
+    {
+      "path": "data/rankings/savage_m7s.reports/001.json",
+      "size_bytes": 7722618,
+      "sha256": "e1bd1f40e8999f1287808172aa1a9da4f2385d3cb84dcbf65642185b6f026448"
+    },
+    {
+      "path": "data/rankings/savage_m8s.json",
+      "size_bytes": 4594539,
+      "sha256": "cf8a0be9f53346400452a8dc1e9888c571ac31d5bca44b0b4a3ed5b6945d751f"
+    },
+    {
+      "path": "data/rankings/savage_m8s.reports/000.json",
+      "size_bytes": 32420147,
+      "sha256": "fc25caa3c54d93a422be8fb20feb2d3f4ef09d0318368b7cf7aa8aa68e94ebfa"
+    },
+    {
+      "path": "data/rankings/ultimate_alexander.json",
+      "size_bytes": 4943041,
+      "sha256": "f9c299bb3a762ce4b1834dc4f327a667c2946d1c51aaca145d59a5c3a7d8af63"
+    },
+    {
+      "path": "data/rankings/ultimate_alexander.reports/000.json",
+      "size_bytes": 35773091,
+      "sha256": "3ff9f7382371a00bb298a8cce10f7f8a876b8b0b5c3db8fcdbc5d2199de5f6e5"
+    },
+    {
+      "path": "data/rankings/ultimate_bahamut.json",
+      "size_bytes": 619842,
+      "sha256": "f459c5885667e2ebb1744de1a296395678291e366ebb6c9d0ba58dbdf8b33b1a"
+    },
+    {
+      "path": "data/rankings/ultimate_bahamut.reports/000.json",
+      "size_bytes": 2658247,
+      "sha256": "fd7e25f084b97a6ebd69b877b12187516a40895d573a1474297d6b4cb40c32db"
+    },
+    {
+      "path": "data/rankings/ultimate_dragonsong.json",
+      "size_bytes": 589460,
+      "sha256": "3d93e9e8cbf7167a49697a692af54753c81117150a5faa675d5dc256fbb87fea"
+    },
+    {
+      "path": "data/rankings/ultimate_dragonsong.reports/000.json",
+      "size_bytes": 2855897,
+      "sha256": "b41be5e2471f081d164a0a9a777dece616f35f34c89287971ed76fb8dcfb25ab"
+    },
+    {
+      "path": "data/rankings/ultimate_futures_rewritten.json",
+      "size_bytes": 2057705,
+      "sha256": "41efa332d1d481fb68f39a27d5de88dc5fb4b271df81e962fead5faf74fc5505"
+    },
+    {
+      "path": "data/rankings/ultimate_futures_rewritten.reports/000.json",
+      "size_bytes": 14967815,
+      "sha256": "1c8ef2804581b292c1279ac363eed0600ccb94307410dd5975d46f608ba22b9c"
+    },
+    {
+      "path": "data/rankings/ultimate_omega.json",
+      "size_bytes": 514927,
+      "sha256": "30393187e12f5d995e28a438bd580cd5a30dce775235a24109066bbfa225f15c"
+    },
+    {
+      "path": "data/rankings/ultimate_omega.reports/000.json",
+      "size_bytes": 4266203,
+      "sha256": "221854fb5fe6b76564aafacb81ea4dd183e94ac8923f3d1ac64e9da83de58bcd"
+    },
+    {
+      "path": "data/rankings/ultimate_ultima_weapon.json",
+      "size_bytes": 7415455,
+      "sha256": "188d54fa33c5a36466c919ff2a80e57e3591667094027a0229c3fb6f1982ca9c"
+    },
+    {
+      "path": "data/rankings/ultimate_ultima_weapon.reports/000.json",
+      "size_bytes": 28241757,
+      "sha256": "81d5f191143bb0e760a141331b5c27f9be0686e08a77e0a7357c86c7fd77fa9b"
+    },
+    {
+      "path": "data/rankings/unreal_byakko.json",
+      "size_bytes": 26554121,
+      "sha256": "df3452c5ce211169359db74bf5a393727551b743365dfcf67c8666867296fee9"
+    },
+    {
+      "path": "data/rankings/unreal_byakko.reports/000.json",
+      "size_bytes": 47165664,
+      "sha256": "ecaafa9cbfbbff0b876afdd5a27d99738c1c9ce1e2ff2a974fe26f521cfa1fd2"
+    },
+    {
+      "path": "data/rankings/unreal_byakko.reports/001.json",
+      "size_bytes": 47167479,
+      "sha256": "fd1ff34eb5c04f33c5e169a154d363cef22d51ada91f638908351179fd1528b0"
+    },
+    {
+      "path": "data/rankings/unreal_byakko.reports/002.json",
+      "size_bytes": 17194816,
+      "sha256": "98d9ab6cf4be787e571c3f6541b23fdf09cf4fc054aca972f28a7cbbd9810e64"
+    },
+    {
+      "path": "data/rankings/unreal_suzaku.json",
+      "size_bytes": 15225773,
+      "sha256": "d5bca1bc81bb6bde49ece26b85a89112d1a127710b69a5260d23a928d0fcbe9a"
+    },
+    {
+      "path": "data/rankings/unreal_suzaku.reports/000.json",
+      "size_bytes": 47178218,
+      "sha256": "e5c42b986621b6506609526798c9a39ff51d74e02b55556cecdbacfb8de0b653"
+    },
+    {
+      "path": "data/rankings/unreal_suzaku.reports/001.json",
+      "size_bytes": 46979015,
+      "sha256": "3d5a5920705519907773005b7e22db9490699588efaeb4dcb6454cb9aa918849"
+    },
+    {
+      "path": "data/state.json",
+      "size_bytes": 84281,
+      "sha256": "520bb8147341a16d4df748a8ab6be670bcc3a75c5326843b965e2ec8ca767062"
+    },
+    {
+      "path": "data/state/checked_reports/chaotic_cloud_of_darkness.json",
+      "size_bytes": 1084484,
+      "sha256": "13a23ab1acc87ee5b1ce4696c7d0d264a7e981738bd94399fc304912f14ecc40"
+    },
+    {
+      "path": "data/state/checked_reports/extreme_queen_eternal.json",
+      "size_bytes": 8288886,
+      "sha256": "99f0c108fc0900241d181dc761991c92c512e0cab6284040bfa83d2192b1de22"
+    },
+    {
+      "path": "data/state/checked_reports/extreme_valigarmanda.json",
+      "size_bytes": 7402903,
+      "sha256": "2ec52c8045cf33314fa62cc5818c05c9a3287269dcb51a77a2c4bd050eb1b27f"
+    },
+    {
+      "path": "data/state/checked_reports/extreme_zelenia.json",
+      "size_bytes": 1979982,
+      "sha256": "2fdc5c5b29852577e41a9207eec128224bd8ca78bf3c2d29992ff211ad5ee199"
+    },
+    {
+      "path": "data/state/checked_reports/extreme_zoraal_ja.json",
+      "size_bytes": 7411257,
+      "sha256": "8fb8863e39ae2709ad2071291e91602a36ac012bfd4d94c6c3a41e18383da3e7"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m1s.json",
+      "size_bytes": 7037271,
+      "sha256": "38f96386df68052dc25e85d97ca20a29f0c3e93b94f2d7b93a88c0328e302236"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m2s.json",
+      "size_bytes": 7009466,
+      "sha256": "2c17a0ef369e018374585167baa5ca59225817a0fb90f67eb00c6ac8793b9c3f"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m3s.json",
+      "size_bytes": 6982767,
+      "sha256": "e284c554a6be89969703c3a7d879a5d58c565076a040d9d991020286c5b0aaae"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m4s.json",
+      "size_bytes": 6994947,
+      "sha256": "859411b768f49db0d4e307e4a9540afa854283a48a78de332ae16c2b44de9ec5"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m5s.json",
+      "size_bytes": 2706667,
+      "sha256": "5cc57b8fe0718d19a7f82552d58e0b33935bd7d9b30de5912b1fb32b11586ecc"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m6s.json",
+      "size_bytes": 2689532,
+      "sha256": "686ffea7280bf7f41f49d2db44ae92b045e879e4ba9c99b0119e0b9b8bd22401"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m7s.json",
+      "size_bytes": 2676564,
+      "sha256": "bcd4f3c3ab156bc93300ebfeb0b6f1fd41e127f9160ef39349e5ae0e4467ae4d"
+    },
+    {
+      "path": "data/state/checked_reports/savage_m8s.json",
+      "size_bytes": 2658751,
+      "sha256": "a379fb448c90b80b2e39b873a61880d3cc04e9a92380b3e2e12c0b996b7377f7"
+    },
+    {
+      "path": "data/state/checked_reports/ultimate_alexander.json",
+      "size_bytes": 36333058,
+      "sha256": "44bb62716d5c929cdd5d1a58c49194e7c4073cd526e3288b09cebf66acb616f4"
+    },
+    {
+      "path": "data/state/checked_reports/ultimate_bahamut.json",
+      "size_bytes": 36320047,
+      "sha256": "0de406007bc7940fa785ceded63110906d32495240c4899d0cd9aff95fdada0e"
+    },
+    {
+      "path": "data/state/checked_reports/ultimate_dragonsong.json",
+      "size_bytes": 36322184,
+      "sha256": "73528e67f021809a91d732cb60de11af4bae70a1a91060fc32e17cb14c214dfd"
+    },
+    {
+      "path": "data/state/checked_reports/ultimate_futures_rewritten.json",
+      "size_bytes": 11519752,
+      "sha256": "f5a4458317c20dbfe7418cde159b7d02c9efd1585e933c119be4757d8ab525b3"
+    },
+    {
+      "path": "data/state/checked_reports/ultimate_omega.json",
+      "size_bytes": 36320359,
+      "sha256": "17ab89c7016404bf97c5333b04c95977e11fc831e2e0f83674161368cb0a4e94"
+    },
+    {
+      "path": "data/state/checked_reports/ultimate_ultima_weapon.json",
+      "size_bytes": 36337030,
+      "sha256": "9553005805c04bccd42b4e06beeff1f0f00535f4cf152d874fb0a9b85ec04a33"
+    },
+    {
+      "path": "data/state/checked_reports/unreal_byakko.json",
+      "size_bytes": 4017497,
+      "sha256": "bbcdc7e32348e518c88eba7e3c4799d66fbdf0f6efc6a17057120c8a5b5b0bf0"
+    },
+    {
+      "path": "data/state/checked_reports/unreal_suzaku.json",
+      "size_bytes": 1908754,
+      "sha256": "5ed6766d6f9bb7cba4f2cf089db593d2bd0343ec27c7205ff1876fc5a0fe6c9d"
+    },
+    {
+      "path": "data/update_status.json",
+      "size_bytes": 455,
+      "sha256": "ecf87225ff4e9b6f2cf894281f678496457fdaedfa0c769ff4217938300dd9ca"
+    },
+    {
+      "path": "public/data/activity.json",
+      "size_bytes": 620293,
+      "sha256": "9a60fc67a1b60dfbd52be420c8a413b383eff1daef8906c4315089d9cd3c454b"
+    },
+    {
+      "path": "public/data/announcements.json",
+      "size_bytes": 11400,
+      "sha256": "f182b5c687465d8a0c7b8052ed40b5bd499a7baf57714d41e190801892ed1b8b"
+    },
+    {
+      "path": "public/data/encounters.json",
+      "size_bytes": 8293,
+      "sha256": "1b36064abb9db44f815a22e114d702f7ad5ad674f9c3e3e47ff4c32730b73e33"
+    },
+    {
+      "path": "public/data/fun/honey_b_fans.json",
+      "size_bytes": 438729,
+      "sha256": "e1f4465156c7452a9f779f96cf9c0c48f3e9cb3829d059fd0253c9fa2e8aeb69"
+    },
+    {
+      "path": "public/data/global_stats.json",
+      "size_bytes": 6222839,
+      "sha256": "d628a13b0a8db83b4b965087cf4e4fbef6062f42de67e684b04bf9ced6a7812c"
+    },
+    {
+      "path": "public/data/report_status_index.json",
+      "size_bytes": 9392242,
+      "sha256": "913571fd45dc244c3834b2b0cb381bf05ab7b5c36b7b52054140118c5cc4669d"
+    },
+    {
+      "path": "public/data/server_compare.json",
+      "size_bytes": 750998,
+      "sha256": "6a79950b9546eb66170e7da19342b4e95195224ef376e959e4a686585cd5f2be"
+    },
+    {
+      "path": "public/data/team_rankings.json",
+      "size_bytes": 10351999,
+      "sha256": "e72e74c1078de8b14cdf174771ba881dd58b7f39c4975090b6c3ff20f14b208b"
+    },
+    {
+      "path": "public/data/update_status.json",
+      "size_bytes": 853,
+      "sha256": "87001734533d129fbd6fe07c0e1851a1ab799ecc99f79b3d1b43dfca812a7c4f"
+    }
+  ]
+}
