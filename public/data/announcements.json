@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "updated_at_iso": "2026-08-06T06:35:58+08:00",
+  "announcements": [
+    {
+      "id": "2026-08-act-plugin-3025-integrity-filter",
+      "title": "ACT Plugin 3.0.2.5 異常紀錄排除公告",
+      "summary": "排行榜不會收錄由 ACT Plugin 3.0.2.5 造成普攻基準與占比異常的戰鬥紀錄，請更新至 3.0.2.6 以上。",
+      "details_markdown": "目前排行榜不會收錄經系統判定有異常的戰鬥紀錄。\n\n已確認異常來源與 ACT Plugin `3.0.2.5` 有關。使用這個版本記錄戰鬥時，可能出現：\n\n1. 普攻每擊基準異常偏高。\n2. 普攻傷害占比異常。\n3. 整體輸出被不合理放大，出現「連直爆超人都沒有那麼厲害」的輸出量。\n\n這類數值不是正常的遊戲輸出。為維護排行榜公平性，系統確認異常後，該戰鬥紀錄不會進入公開排行榜、個人成績、隊伍榜與統計資料。\n\n請使用者將 ACT Plugin 更新至 `3.0.2.6` 或以上版本後再記錄戰鬥。若仍使用 `3.0.2.5`，產生的異常紀錄將無法被排行榜採計。\n\n如果發現疑似異常的戰鬥報告，歡迎透過下方的 Telegram 交流群回報，協助我們進一步確認與處理。感謝各位的協助與支援，讓排行榜資料能持續維持公平與正確。",
+      "starts_at_iso": "2026-08-06T06:30:31+08:00",
+      "expires_at_iso": null,
+      "severity": "warning",
+      "links": [
+        {
+          "label": "前往 Telegram 交流群回報",
+          "url": "https://t.me/ffxiv_tc"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-attack-log-integrity-check",
+      "title": "排行榜資料檢核公告",
+      "summary": "部分 7 月 28 日後的 FFLogs 戰鬥紀錄可能出現普攻解析異常，本站正分批檢核。",
+      "details_markdown": "因 7 月 28 日後，部分 FFLogs 戰鬥紀錄可能出現普攻解析異常，導致 rDPS 與傷害數據異常偏高。\n\n為維護排行榜資料的公平性與可信度，本站已啟用暫時性的檢核機制，並會持續分批檢查相關戰鬥紀錄。確認有異常疑慮的紀錄將暫時不納入公開排行榜、個人成績、隊伍榜與統計資料；原始紀錄仍會保留，以便日後重新確認。\n\n檢核作業進行期間，部分尚未完成檢查的紀錄可能暫時仍會顯示於排行榜。感謝各位的理解與耐心等待。",
+      "starts_at_iso": "2026-07-30T13:15:08+08:00",
+      "expires_at_iso": "2026-08-06T06:30:31+08:00",
+      "severity": "warning"
+    },
+    {
+      "id": "2026-07-profile-clear-summary",
+      "title": "個人成績單新增簡表模式",
+      "summary": "個人成績單新增高難副本通關簡表，可切換遊戲版本與零式量級。",
+      "details_markdown": "個人成績單現在可以開啟右側的「簡表模式」，快速查看本站已收錄的高難副本公開通關紀錄。\n\n1. 可依繁中服遊戲版本查看當時已開放的副本，並只顯示下一個版本開放前完成的戰鬥。\n2. 零式可切換不同量級；選擇量級後會顯示對應的第 1～4 層。\n3. 某量級四層都有當版本有效通關時，量級圖示會亮起彩色勾勾。各樓層仍會顯示對應職業與 PR；若只有過版紀錄，則顯示灰色通關勾勾。\n\n「尚未收錄」只代表本站目前沒有該角色的公開 FFLogs 紀錄，不代表尚未通關。",
+      "starts_at_iso": "2026-07-16T17:00:00+08:00",
+      "expires_at_iso": null,
+      "severity": "update"
+    },
+    {
+      "id": "2026-07-faq-fflogs-status-refresh-queue",
+      "title": "FFLogs 檢查工具新增公開狀態查詢",
+      "summary": "常見問題的 FFLogs 檢查工具已新增公開狀態查詢與待收錄名單功能。",
+      "details_markdown": "常見問題頁面的「FFLogs 檢查工具」已更新，現在輸入 report code 或 FFLogs 連結後，可以確認該 report 目前是否可由排行榜讀取。\n\n如果 report 仍是 Private、Unlisted 或無法存取，工具會提醒先到 FFLogs 將 Visibility 改成 `Public`。如果 report 已公開但尚未收錄，可以直接安排進待收錄名單；已收錄但需要重新排查的 report，也可以透過同一個工具提出重新排查。\n\n待收錄名單會由後續 GitHub Actions workflow 排程讀取並嘗試更新。實際能否收錄仍會依照繁中服玩家、支援副本、通關場次與 FFLogs 可讀狀態判定。",
+      "starts_at_iso": "2026-07-09T22:26:07+08:00",
+      "expires_at_iso": null,
+      "severity": "update",
+      "links": [
+        {
+          "label": "查看常見問題與 FFLogs 檢查工具",
+          "url": "/faq"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-fflogs-uploaders-public-upload",
+      "title": "FFLogs 實時公開上傳工具提醒",
+      "summary": "社群測試 FFLogs Uploader 可維持 Public。",
+      "details_markdown": "近期 Archon App 上傳後的 FFLogs report 可能會被設為 `Unlisted`，導致排行榜無法自動掃描。社群目前測試 FF Logs Uploader（RPGLogs 的 `Uploaders-fflogs` GitHub Releases）時，實時上傳設定為 `Public` 後，木人與團本樣本上傳後都能維持公開。因此建議想要使用實時上傳並且公開 Logs 的玩家，短期可以優先參考 FF Logs Uploader。",
+      "starts_at_iso": "2026-06-25T00:00:00+08:00",
+      "expires_at_iso": "2026-07-09T22:35:29+08:00",
+      "severity": "update",
+      "links": [
+        {
+          "label": "查看 FFLogs Uploaders",
+          "url": "https://github.com/RPGLogs/Uploaders-fflogs/releases"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-fflogs-unlisted-visibility",
+      "title": "FFLogs Unlisted 報告收錄提醒",
+      "summary": "近期 Archon App 上傳後的 FFLogs 報告可能會變成 Unlisted；若要被排行榜收錄，請手動改成 Public。",
+      "details_markdown": "近期社群回報，透過 Archon App 上傳的 FFLogs 即時日誌，即使上傳前看起來是公開設定，上傳後報告仍可能會被設為 `Unlisted`。\n\n這會影響排行榜收錄：\n\n1. `Unlisted` 報告不會進入排行榜的自動掃描範圍。\n2. 如果希望成績出現在繁中服排行榜，請在 FFLogs 上傳完成後，到該 report 的設定中把 Visibility 手動改成 `Public`。\n3. 如果不希望報告被排行榜收錄，維持 `Unlisted` 即可，不需要額外操作。\n\n如果最近有打完、也有上傳 FFLogs，但排行榜或個人成績單沒有出現，請先檢查該 report 是否仍是 `Unlisted`。之後如果 FFLogs 或 Archon App 的行為有變，會再同步更新公告。",
+      "starts_at_iso": "2026-06-23T18:30:00+08:00",
+      "expires_at_iso": "2026-06-25T00:00:00+08:00",
+      "severity": "warning",
+      "links": [
+        {
+          "label": "查看常見問題與 FFLogs 檢查工具",
+          "url": "/faq"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-honey-b-lovely-super-high-mode",
+      "title": "Honey B. Lovely 【超高難度】模式開放",
+      "summary": "Honey B. Lovely 粉絲榜新增【超高難度】模式，挑戰通關場次中的團隊心心總數。",
+      "details_markdown": "Honey B. Lovely 粉絲榜現在新增了【超高難度】模式，會以通關場次為基準，統計同一隊伍在單次戰鬥中取得的「心醉魂迷：奴役」總數。\n\n你有辦法在單次戰鬥拿到最多心心，給予 Honey B. 最多 BUFF，並且同時通關嗎？這不只是吃心心，也要研究如何合理分配獲得心心的時機，讓隊伍在不 wipe 的情況下把紀錄帶回終點。\n\n挑戰這項紀錄，成為名留青史的超高難度玩家吧！\n\n戰鬥紀錄從 2026/05/30 00:00:00（台灣時間）開始計算，祝大家遊戲愉快！",
+      "starts_at_iso": "2026-05-30T22:12:25+08:00",
+      "expires_at_iso": "2026-06-23T18:30:00+08:00",
+      "severity": "update",
+      "links": [
+        {
+          "label": "前往 Honey B. Lovely 粉絲榜",
+          "url": "/honey-fans"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-honey-b-lovely-open",
+      "title": "Honey B. Lovely 粉絲榜上線",
+      "summary": "Honey B. Lovely 粉絲榜已開放，可以查看近期 M2S 被哈尼 B 收服的玩家紀錄。",
+      "details_markdown": "Honey B. Lovely 粉絲榜會整理近期 M2S 通關與 wipe 戰鬥中吃到第 4 顆愛心、進入「心醉魂迷：奴役」的趣味資料。\n\n這個榜單是娛樂向統計，適合拿來回味蜂蜂舞台事故、查看近期粉絲榜與最新被收服紀錄；不會影響正式排行榜、隊伍榜或個人成績單的成績計算。\n\n目前入口會保留在網站上的 Honey B. Lovely 浮動按鈕與直接網址。",
+      "starts_at_iso": "2026-05-30T00:00:00+08:00",
+      "expires_at_iso": "2026-05-31T00:00:00+08:00",
+      "severity": "update",
+      "links": [
+        {
+          "label": "前往 Honey B. Lovely 粉絲榜",
+          "url": "/honey-fans"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-ultimate-rankings-open",
+      "title": "絕本排行榜已開放",
+      "summary": "絕系列副本排行榜已開啟；絕巴哈資料目前有異常，會陸續修正。",
+      "details_markdown": "網站目前已收錄絕巴哈、絕神兵、絕亞、絕龍詩、絕歐米茄與絕伊甸，大家可以在副本選單切到「絕」分類查看排行榜、隊伍榜與個人成績單。\n\n目前絕巴哈的資料判讀有些異常，部分紀錄可能需要重新整理與修正。這一段會需要一點時間處理，完成前請先把絕巴哈排行榜當作參考資料。\n\n另外資料更新的部分，系統更新會優先檢查最近 24 小時內的 Logs 變動，並優先新增 72 小時內的新紀錄；超過 72 小時的紀錄會進入歷史資料掃描，等待排程慢慢補齊，大約會需要二至三天的時間，或者更久一點。\n\n如果有遇到資料異常、計算錯誤或任何問題，歡迎加入 Telegram 交流群一起討論。",
+      "starts_at_iso": "2026-05-28T00:00:00+08:00",
+      "expires_at_iso": "2026-06-03T00:00:00+08:00",
+      "severity": "update",
+      "links": [
+        {
+          "label": "Telegram 交流群",
+          "url": "https://t.me/ffxiv_tc"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-gcd-coverage-in-progress",
+      "title": "GCD 覆蓋率仍在調整中",
+      "summary": "GCD 覆蓋率目前仍在修正，與 XIV Analysis 可能會有差距。",
+      "details_markdown": "目前網站顯示的 GCD 覆蓋率仍在修正與驗證中，和 XIV Analysis 的結果可能會有不少差距，請先把它當作參考值使用。\n\n每個副本、職業需要調整的方式都可能不同，例如停手視窗、轉場、職業特殊 GCD 流程與 FFLogs events 判讀都會影響結果。正在參考各種觀點與意見，並持續嘗試改進計算方式。\n\n如果你有實戰樣本、職業觀點或和 XIV Analysis 差異較大的例子，歡迎加入 Telegram 交流群一起討論。",
+      "starts_at_iso": "2026-05-24T00:00:00+08:00",
+      "expires_at_iso": "2026-07-09T22:35:29+08:00",
+      "severity": "warning",
+      "links": [
+        {
+          "label": "Telegram 交流群",
+          "url": "https://t.me/ffxiv_tc"
+        }
+      ]
+    }
+  ]
+}
