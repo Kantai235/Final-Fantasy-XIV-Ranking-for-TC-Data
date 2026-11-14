@@ -1,0 +1,296 @@
+[
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m1s.json",
+    "enabled": true,
+    "key": "savage_m1s",
+    "name": "零式 M1S / 黑貓",
+    "profile_summary_available_from": "7.05",
+    "profile_summary_savage_tier": {
+      "floor": 1,
+      "key": "light-heavyweight",
+      "label": "輕量級",
+      "order": 1
+    },
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-07-28T05:00:00.000Z",
+      "obsolete_after_local": "2026-07-28 13:00",
+      "obsolete_label": "7.2 改版後",
+      "patch": "7.2",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.2 改版前"
+    }
+  },
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m2s.json",
+    "enabled": true,
+    "key": "savage_m2s",
+    "name": "零式 M2S / 蜂蜂小甜心",
+    "profile_summary_available_from": "7.05",
+    "profile_summary_savage_tier": {
+      "floor": 2,
+      "key": "light-heavyweight",
+      "label": "輕量級",
+      "order": 1
+    },
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-07-28T05:00:00.000Z",
+      "obsolete_after_local": "2026-07-28 13:00",
+      "obsolete_label": "7.2 改版後",
+      "patch": "7.2",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.2 改版前"
+    }
+  },
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m3s.json",
+    "enabled": true,
+    "key": "savage_m3s",
+    "name": "零式 M3S / 野蠻炸彈",
+    "profile_summary_available_from": "7.05",
+    "profile_summary_savage_tier": {
+      "floor": 3,
+      "key": "light-heavyweight",
+      "label": "輕量級",
+      "order": 1
+    },
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-07-28T05:00:00.000Z",
+      "obsolete_after_local": "2026-07-28 13:00",
+      "obsolete_label": "7.2 改版後",
+      "patch": "7.2",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.2 改版前"
+    }
+  },
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m4s.json",
+    "enabled": true,
+    "key": "savage_m4s",
+    "name": "零式 M4S / 狡雷",
+    "profile_summary_available_from": "7.05",
+    "profile_summary_savage_tier": {
+      "floor": 4,
+      "key": "light-heavyweight",
+      "label": "輕量級",
+      "order": 1
+    },
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-07-28T05:00:00.000Z",
+      "obsolete_after_local": "2026-07-28 13:00",
+      "obsolete_label": "7.2 改版後",
+      "patch": "7.2",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.2 改版前"
+    }
+  },
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m5s.json",
+    "enabled": true,
+    "key": "savage_m5s",
+    "name": "零式 M5S / 熱舞綠光",
+    "profile_summary_available_from": "7.2",
+    "profile_summary_savage_tier": {
+      "floor": 1,
+      "key": "cruiserweight",
+      "label": "次重量級",
+      "order": 2
+    }
+  },
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m6s.json",
+    "enabled": true,
+    "key": "savage_m6s",
+    "name": "零式 M6S / 糖彩狂潮",
+    "profile_summary_available_from": "7.2",
+    "profile_summary_savage_tier": {
+      "floor": 2,
+      "key": "cruiserweight",
+      "label": "次重量級",
+      "order": 2
+    }
+  },
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m7s.json",
+    "enabled": true,
+    "key": "savage_m7s",
+    "name": "零式 M7S / 野蠻憎惡",
+    "profile_summary_available_from": "7.2",
+    "profile_summary_savage_tier": {
+      "floor": 3,
+      "key": "cruiserweight",
+      "label": "次重量級",
+      "order": 2
+    }
+  },
+  {
+    "category": "零式",
+    "current_high_end": true,
+    "data_path": "data/rankings/savage_m8s.json",
+    "enabled": true,
+    "key": "savage_m8s",
+    "name": "零式 M8S / 呼嘯之劍",
+    "profile_summary_available_from": "7.2",
+    "profile_summary_savage_tier": {
+      "floor": 4,
+      "key": "cruiserweight",
+      "label": "次重量級",
+      "order": 2
+    }
+  },
+  {
+    "category": "極",
+    "data_path": "data/rankings/extreme_valigarmanda.json",
+    "enabled": true,
+    "key": "extreme_valigarmanda",
+    "name": "極 豔翼蛇鳥",
+    "profile_summary_available_from": "7.0",
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-04-21T10:00:00.000Z",
+      "obsolete_after_local": "2026-04-21 18:00",
+      "obsolete_label": "7.1 改版後",
+      "patch": "7.1",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.1 改版前"
+    }
+  },
+  {
+    "category": "極",
+    "data_path": "data/rankings/extreme_zoraal_ja.json",
+    "enabled": true,
+    "key": "extreme_zoraal_ja",
+    "name": "極 佐拉加",
+    "profile_summary_available_from": "7.0",
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-04-21T10:00:00.000Z",
+      "obsolete_after_local": "2026-04-21 18:00",
+      "obsolete_label": "7.1 改版後",
+      "patch": "7.1",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.1 改版前"
+    }
+  },
+  {
+    "category": "極",
+    "current_high_end": true,
+    "data_path": "data/rankings/extreme_queen_eternal.json",
+    "enabled": true,
+    "key": "extreme_queen_eternal",
+    "name": "極 永恆女王",
+    "profile_summary_available_from": "7.1",
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-07-28T05:00:00.000Z",
+      "obsolete_after_local": "2026-07-28 13:00",
+      "obsolete_label": "7.2 改版後",
+      "patch": "7.2",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.2 改版前"
+    }
+  },
+  {
+    "category": "極",
+    "current_high_end": true,
+    "data_path": "data/rankings/extreme_zelenia.json",
+    "enabled": true,
+    "key": "extreme_zelenia",
+    "name": "極 澤蓮尼亞",
+    "profile_summary_available_from": "7.2"
+  },
+  {
+    "category": "幻",
+    "current_high_end": true,
+    "data_path": "data/rankings/unreal_byakko.json",
+    "enabled": true,
+    "key": "unreal_byakko",
+    "name": "幻 白虎",
+    "profile_summary_available_from": "7.1",
+    "profile_summary_available_until": "7.2"
+  },
+  {
+    "category": "幻",
+    "current_high_end": true,
+    "data_path": "data/rankings/unreal_suzaku.json",
+    "enabled": true,
+    "key": "unreal_suzaku",
+    "name": "幻 朱雀",
+    "profile_summary_available_from": "7.2"
+  },
+  {
+    "category": "滅",
+    "current_high_end": true,
+    "data_path": "data/rankings/chaotic_cloud_of_darkness.json",
+    "enabled": true,
+    "key": "chaotic_cloud_of_darkness",
+    "name": "滅 黑暗之雲",
+    "profile_summary_available_from": "7.15",
+    "version_cutoff": {
+      "obsolete_after_iso": "2026-07-28T05:00:00.000Z",
+      "obsolete_after_local": "2026-07-28 13:00",
+      "obsolete_label": "7.2 改版後",
+      "patch": "7.2",
+      "timezone": "Asia/Taipei",
+      "valid_label": "7.2 改版前"
+    }
+  },
+  {
+    "category": "絕",
+    "data_path": "data/rankings/ultimate_bahamut.json",
+    "enabled": true,
+    "key": "ultimate_bahamut",
+    "name": "絕 巴哈姆特",
+    "profile_summary_available_from": "7.0"
+  },
+  {
+    "category": "絕",
+    "data_path": "data/rankings/ultimate_ultima_weapon.json",
+    "enabled": true,
+    "key": "ultimate_ultima_weapon",
+    "name": "絕 究極神兵",
+    "profile_summary_available_from": "7.0"
+  },
+  {
+    "category": "絕",
+    "data_path": "data/rankings/ultimate_alexander.json",
+    "enabled": true,
+    "key": "ultimate_alexander",
+    "name": "絕 亞歷山大",
+    "profile_summary_available_from": "7.0"
+  },
+  {
+    "category": "絕",
+    "data_path": "data/rankings/ultimate_dragonsong.json",
+    "enabled": true,
+    "key": "ultimate_dragonsong",
+    "name": "絕 幻想龍詩",
+    "profile_summary_available_from": "7.0"
+  },
+  {
+    "category": "絕",
+    "data_path": "data/rankings/ultimate_omega.json",
+    "enabled": true,
+    "key": "ultimate_omega",
+    "name": "絕 歐米茄",
+    "profile_summary_available_from": "7.0"
+  },
+  {
+    "category": "絕",
+    "data_path": "data/rankings/ultimate_futures_rewritten.json",
+    "enabled": true,
+    "key": "ultimate_futures_rewritten",
+    "name": "絕 伊甸",
+    "profile_summary_available_from": "7.1"
+  }
+]
